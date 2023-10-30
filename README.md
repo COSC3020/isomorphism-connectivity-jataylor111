@@ -10,3 +10,10 @@ might help with the notation for mathematical expressions.
 $G_1=(V_1 , E_1)$ is isomorphic to $G_2 = (V_2, E_2)$ if there exists a
 one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,v)
 \in E_1$ iff $(f(u),f(v)) \in E_2$.
+
+## My Response
+Two graphs that meet the requirements do not have to be fully connected.
+Let $A$ and $B$ both be graphs, and let them each contain only one node.  This means that they have no edges, and are 
+completely unconnected.
+then by the definition they are one to one and onto, which satisfies the bijection requirement.
+They are 
